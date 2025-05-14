@@ -1,0 +1,5 @@
+﻿# TODO: remove any unnecessary packages from this list at the end
+numpy~=2.2.5
+torch~=2.7.0
+torchvision~=0.22.0
+scikit-learn~=1.6.1
