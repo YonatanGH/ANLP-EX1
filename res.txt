@@ -1,4 +1,4 @@
-num_train_epochs: 5; lr: 2e-05; batch_size: 20; eval_accuracy: 0.8431372549019608
-num_train_epochs: 4; lr: 1e-05; batch_size: 25; eval_accuracy: 0.8137254901960784
-num_train_epochs: 3; lr: 0.0002; batch_size: 30; eval_accuracy: 0.7181372549019608
-num_train_epochs: 2; lr: 0.001; batch_size: 30; eval_accuracy: 0.6838235294117647
+epoch_num: 5, lr: 2e-05, batch_size: 20, eval_acc: 0.8431372549019608
+epoch_num: 4, lr: 1e-05, batch_size: 25, eval_acc: 0.8137254901960784
+epoch_num: 3, lr: 0.0002, batch_size: 30, eval_acc: 0.7181372549019608
+epoch_num: 2, lr: 0.001, batch_size: 30, eval_acc: 0.6838235294117647
